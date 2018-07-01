@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>伯鼎</title>
+  
+  <subtitle>伯鼎的写字板</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="LancerNJU.github.io/"/>
+  <updated>2018-07-01T07:59:25.221Z</updated>
+  <id>LancerNJU.github.io/</id>
+  
+  <author>
+    <name>伯鼎</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试文章</title>
+    <link href="LancerNJU.github.io/2018/07/01/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
+    <id>LancerNJU.github.io/2018/07/01/测试文章/</id>
+    <published>2018-07-01T07:57:29.000Z</published>
+    <updated>2018-07-01T07:59:25.221Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="高校科学数据管理探索与实践"><a href="#高校科学数据管理探索与实践" class="headerlink" title="高校科学数据管理探索与实践"></a>高校科学数据管理探索与实践</h1><p>复旦大学：张计龙</p><ol><li>大数据时代的科研活动</li><li>科学数据管理与共享概述</li><li>科学数据管理与共享政策</li><li>国内外数据中心调研与走访</li><li>复旦数据中心建设实践</li></ol><h2 id="一"><a href="#一" class="headerlink" title="一"></a>一</h2><p>第四范式对课题的研究方式的改变————昨晚那篇论文，从假设检验到数据挖掘，from theory-driven to data-driven</p><ul><li>技术挑战</li><li>基础设施（大数据工厂——实时信息的传输，带宽与专网解决；易用：学科交汇处；数据的生命周期，支持数据的跨学科研究与转移，人口、基因、医疗的项目组）</li><li>政策法规（开放数据面临的麻烦：主客观；伦理、安全、隐私）</li><li>数据人才：数据科学与大数据技术专业</li></ul><h2 id="二"><a href="#二" class="headerlink" title="二"></a>二</h2><p>科学数据技术标准——不包括人文社科</p><p>管理中的数据标准——bmp系统</p><p>科学数据、如学位论文的所有权—<strong><em>占有使用处分受益</em></strong>—科研机构的职责义务探讨—经费支撑</p><p>数据收集的授权</p><p>数据共享的与范—科研道德伦理（复旦：数据的分级保密委员会）</p><p>上海市人口的保密数据——脱敏处理——人员管理与利益分配——数据资源的权力寻租——灰色文献的黑市交易</p><p>版权与知识产权的归属——数据准确性的追源——数据的盗用、丢失、误用</p><p>数据管理的生命周期模型</p><p>数据开放对安全的界定：政治敏感、经济价值…</p><h2 id="三"><a href="#三" class="headerlink" title="三"></a>三</h2><p>数据失忆？信息孤岛？</p><p>澳政策、美执行</p><p><strong><em>《大数据发展行动纲要》</em></strong></p><p>政府数据开放-高校缓冲-市场吸收-回归到政府信息采集：开放弹性、信息法规、追责、使用领域、不对称？、权限资质审核</p><p>期刊出版机构：数据出版、录用（在论文之外）</p><h2 id="四"><a href="#四" class="headerlink" title="四"></a>四</h2><p>各国各校、企业访问</p><h2 id="五"><a href="#五" class="headerlink" title="五　"></a>五　</h2><p>联通数据＼公安数据＼银联数据<br>ＢＡＴ数据、摩拜 饿了么 大众点评</p><p>上海人口数据研究中心：人口数量变迁—质量-结构</p><p>上海的人口转移：经济的产业转移——北京大兴的ddrk</p><p>公安、计生委、民政、社保、其他人口相关数据机构</p><p>数据沙箱</p><p>复旦大学：大数据工厂</p><p>##六<br>数据实验室的高校教师参与激励</p><p>数据的法理学角度判定</p><p>数据交易模式（贵州大数据交易所、上海数据交易中心）：数据报告、数据借口、数据产品</p><p>试用指标、先进性指标（性能、带宽、后续资金）</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;高校科学数据管理探索与实践&quot;&gt;&lt;a href=&quot;#高校科学数据管理探索与实践&quot; class=&quot;headerlink&quot; title=&quot;高校科学数据管理探索与实践&quot;&gt;&lt;/a&gt;高校科学数据管理探索与实践&lt;/h1&gt;&lt;p&gt;复旦大学：张计龙&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;大数据时
+      
+    
+    </summary>
+    
+      <category term="MLIS" scheme="LancerNJU.github.io/categories/MLIS/"/>
+    
+    
+      <category term="图书馆学" scheme="LancerNJU.github.io/tags/%E5%9B%BE%E4%B9%A6%E9%A6%86%E5%AD%A6/"/>
+    
+      <category term="情报学" scheme="LancerNJU.github.io/tags/%E6%83%85%E6%8A%A5%E5%AD%A6/"/>
+    
+  </entry>
+  
+</feed>
