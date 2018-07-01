@@ -5,9 +5,9 @@
   <subtitle>伯鼎的写字板</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="LancerNJU.github.io/"/>
+  <link href="https://lancernju.github.io/"/>
   <updated>2018-07-01T07:59:25.221Z</updated>
-  <id>LancerNJU.github.io/</id>
+  <id>https://lancernju.github.io/</id>
   
   <author>
     <name>伯鼎</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>测试文章</title>
-    <link href="LancerNJU.github.io/2018/07/01/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
-    <id>LancerNJU.github.io/2018/07/01/测试文章/</id>
+    <link href="https://lancernju.github.io/2018/07/01/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
+    <id>https://lancernju.github.io/2018/07/01/测试文章/</id>
     <published>2018-07-01T07:57:29.000Z</published>
     <updated>2018-07-01T07:59:25.221Z</updated>
     
@@ -36,12 +36,12 @@
     
     </summary>
     
-      <category term="MLIS" scheme="LancerNJU.github.io/categories/MLIS/"/>
+      <category term="MLIS" scheme="https://lancernju.github.io/categories/MLIS/"/>
     
     
-      <category term="图书馆学" scheme="LancerNJU.github.io/tags/%E5%9B%BE%E4%B9%A6%E9%A6%86%E5%AD%A6/"/>
+      <category term="图书馆学" scheme="https://lancernju.github.io/tags/%E5%9B%BE%E4%B9%A6%E9%A6%86%E5%AD%A6/"/>
     
-      <category term="情报学" scheme="LancerNJU.github.io/tags/%E6%83%85%E6%8A%A5%E5%AD%A6/"/>
+      <category term="情报学" scheme="https://lancernju.github.io/tags/%E6%83%85%E6%8A%A5%E5%AD%A6/"/>
     
   </entry>
   
